@@ -64,10 +64,10 @@ Currently a frontend-focused fullstack developer, with other interests including
 
 <div align="center">
 
-<img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api?username=essandhu&show_icons=true&include_all_commits=true&rank_icon=percentile&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Erick%27s%20Stats&show=prs_merged,prs_merged_percentage&theme=radical" width="49%" height="200" align="top" />
-<img src="https://streak-stats.demolab.com?user=essandhu&theme=radical&card_width=500&card_height=200" width="49%" height="200" align="top" />
+<img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api?username=essandhu&show_icons=true&include_all_commits=true&rank_icon=percentile&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Erick%27s%20Stats&show=prs_merged,prs_merged_percentage&theme=radical" width="400" height="200" align="top" />
+<img src="https://streak-stats.demolab.com?user=essandhu&theme=radical&card_width=400&card_height=200" width="400" height="200" align="top" />
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -77,10 +77,10 @@ Currently a frontend-focused fullstack developer, with other interests including
 
 <div align="center">
 
-<a href="https://github.com/essandhu/clarity"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=clarity&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="Clarity Project Card" width="49%" /></a>
-<a href="https://github.com/essandhu/twitch-chat-lab"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=twitch-chat-lab&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="TwitchChatLab Project Card" width="49%" /></a>
-<a href="https://github.com/essandhu/sentinel"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=sentinel&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="Sentinel Project Card" width="49%" /></a>
-<a href="https://github.com/essandhu/synapseoms"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=synapseoms&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="SynapseOMS Project Card" width="49%" /></a>
+<a href="https://github.com/essandhu/clarity"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=clarity&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="Clarity Project Card" width="400" /></a>
+<a href="https://github.com/essandhu/twitch-chat-lab"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=twitch-chat-lab&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="TwitchChatLab Project Card" width="400" /></a>
+<a href="https://github.com/essandhu/sentinel"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=sentinel&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="Sentinel Project Card" width="400" /></a>
+<a href="https://github.com/essandhu/synapseoms"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=synapseoms&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="SynapseOMS Project Card" width="400" /></a>
  
 </div>
 
