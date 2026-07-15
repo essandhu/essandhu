@@ -17,11 +17,13 @@
 
 ## 🚀 About Me
 
-Currently a frontend-focused fullstack developer, with other interests including leveraging AI technology to enhance software development as well as utilizing computer vision in relevant product applications. I have experience with:
+Currently, I have professional and personal experience as a frontend-focused fullstack software engineer. My other fields of interest include leveraging AI technology to enhance software development, as well as utilizing computer vision in relevant product applications. I excel at:
 - Developing and maintaining component libraries, UI elements, and web pages
+- REST APIs, AI output integration, and other data interfaces
+- Orchestrating LLMs and AI agents to improve productivity and automate workflows
 - Debugging/troubleshooting issues faced throughout the stack
 - Optimizing performance and efficiency of software applications
-- Orchestrating LLMs and AI agents to improve productivity and automate workflows
+- Researching industry best-practices for clean, scalable code
 
 <br/>
 
