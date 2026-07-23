@@ -83,6 +83,7 @@ Currently, I have professional and personal experience as a frontend-focused ful
 <a href="https://github.com/essandhu/twitch-chat-lab"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=twitch-chat-lab&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="TwitchChatLab Project Card" width="400" /></a>
 <a href="https://github.com/essandhu/sentinel"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=sentinel&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="Sentinel Project Card" width="400" /></a>
 <a href="https://github.com/essandhu/synapseoms"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=synapseoms&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="SynapseOMS Project Card" width="400" /></a>
+<a href="https://github.com/essandhu/ledger-service"><img src="https://github-stats-extended-frontend-swart-nu.vercel.app/api/pin/?username=essandhu&repo=ledger-service&show=prs_authored,issues_authored&theme=radical&card_width=400&description_lines_count=2" alt="LedgerService Project Card" width="400" /></a>
  
 </div>
 
